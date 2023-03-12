@@ -13,6 +13,8 @@
 		D36AE8F629BCBA7B00D7F549 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D36AE8F429BCBA7B00D7F549 /* Main.storyboard */; };
 		D36AE8F829BCBA7C00D7F549 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D36AE8F729BCBA7C00D7F549 /* Assets.xcassets */; };
 		D36AE8FB29BCBA7C00D7F549 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D36AE8F929BCBA7C00D7F549 /* LaunchScreen.storyboard */; };
+		D36AE90329BD03EE00D7F549 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36AE90229BD03EE00D7F549 /* DetailsViewController.swift */; };
+		D36AE90529BDD19000D7F549 /* Simpson.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36AE90429BDD19000D7F549 /* Simpson.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		D36AE8F729BCBA7C00D7F549 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D36AE8FA29BCBA7C00D7F549 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D36AE8FC29BCBA7C00D7F549 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D36AE90229BD03EE00D7F549 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
+		D36AE90429BDD19000D7F549 /* Simpson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Simpson.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +63,9 @@
 				D36AE8EE29BCBA7B00D7F549 /* AppDelegate.swift */,
 				D36AE8F029BCBA7B00D7F549 /* SceneDelegate.swift */,
 				D36AE8F229BCBA7B00D7F549 /* ViewController.swift */,
+				D36AE90229BD03EE00D7F549 /* DetailsViewController.swift */,
 				D36AE8F429BCBA7B00D7F549 /* Main.storyboard */,
+				D36AE90429BDD19000D7F549 /* Simpson.swift */,
 				D36AE8F729BCBA7C00D7F549 /* Assets.xcassets */,
 				D36AE8F929BCBA7C00D7F549 /* LaunchScreen.storyboard */,
 				D36AE8FC29BCBA7C00D7F549 /* Info.plist */,
@@ -141,6 +147,8 @@
 				D36AE8F329BCBA7B00D7F549 /* ViewController.swift in Sources */,
 				D36AE8EF29BCBA7B00D7F549 /* AppDelegate.swift in Sources */,
 				D36AE8F129BCBA7B00D7F549 /* SceneDelegate.swift in Sources */,
+				D36AE90329BD03EE00D7F549 /* DetailsViewController.swift in Sources */,
+				D36AE90529BDD19000D7F549 /* Simpson.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
